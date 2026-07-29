@@ -1,6 +1,6 @@
 # Hi, I'm Chirag Kaushik 👋
 
-I'm a Data Scientist focused on Python, Machine Learning, and statistical analysis, with my sights set on contributing to GSoC 2027.
+I'm a Data Scientist focused on Python, Machine Learning, and statistical analysis.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
