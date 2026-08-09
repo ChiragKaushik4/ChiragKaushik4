@@ -356,3 +356,9 @@ Open To:
   - AI/ML Engineering Opportunities
   - Backend Engineering Opportunities
   - Open Source Collaboration
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
