@@ -325,6 +325,11 @@ Focused on building production-oriented machine learning systems, backend APIs a
   <img src="https://raw.githubusercontent.com/Chirag-Kaushik/Chirag-Kaushik/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+
 ---
 
 ## Current Focus
@@ -356,9 +361,3 @@ Open To:
   - AI/ML Engineering Opportunities
   - Backend Engineering Opportunities
   - Open Source Collaboration
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake.svg" alt="GitHub Contribution Snake">
-</p>
