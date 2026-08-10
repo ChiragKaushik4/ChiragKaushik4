@@ -270,18 +270,6 @@ Focused on building production-oriented machine learning systems, backend APIs a
 </p>
 
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag-kaushik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-kaushik&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=64748B" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-kaushik&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
-</p>
-
-
 ## Contribution Activity
 
 <p align="center">
