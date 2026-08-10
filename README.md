@@ -270,12 +270,6 @@ Focused on building production-oriented machine learning systems, backend APIs a
 </p>
 
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-kaushik&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-</p>
-
 ---
 
 ## Contribution Snake
