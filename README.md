@@ -21,12 +21,6 @@
   <a href="mailto:chiragkaushik154@gmail.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag-kaushik&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/chirag-kaushik?style=for-the-badge&color=4c1d95&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/chirag-kaushik?style=for-the-badge&color=7c3aed&label=STARS"/>
-</p>
-
 ---
 
 ## About
