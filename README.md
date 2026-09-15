@@ -264,18 +264,6 @@ Focused on building production-oriented machine learning systems, backend APIs a
 </p>
 
 
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ChiragKaushik4/ChiragKaushik4/output/github-snake.svg">
-  </picture>
-</p>
-
 
 ---
 
