@@ -227,7 +227,7 @@ Focused on building production-oriented machine learning systems, backend APIs a
 
 | Recognition | Details |
 |:---|:---|
-| **LeetCode Top 5% Global** | Solved **800+ complex algorithmic problems** with consistent high-level problem-solving performance |
+| **LeetCode** | Solved **complex algorithmic problems** with consistent high-level problem-solving performance |
 | **Google Cloud Arcade Legend** | Achieved **Arcade Legend** tier through cloud automation and data workflow challenges |
 | **Academic Performance** | **8.7 / 10 CGPA** in B.Tech Computer Science |
 | **Cloud Certification** | AWS Certified Cloud Practitioner |
